@@ -65,7 +65,8 @@ Key results:
 * Nucleocapsid: best model Q.pfam+F+R5
 * Nucleocapsid–Spike comparison feasible: 60 shared assemblies
 
-**Note:** initial analysis was carried out with nsp12–spike comparison but failed due to zero shared taxa
+*Note:* initial analysis was carried out with nsp12–spike comparison but failed due to zero shared taxa
+
 ---
 
 ### **4. Tree comparison**
